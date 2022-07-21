@@ -1,0 +1,20 @@
+table {
+    width: auto;
+}
+
+#username{  
+    width: 100%;
+    background-color : #ffffcc; 
+  
+}
+#password{
+    width: 100%;
+    background-color : #ffffcc; 
+    
+}
+#type{
+    width: 100%; 
+}
+#email{
+    width: 100%;
+}

@@ -1,0 +1,38 @@
+#quizContainer {
+    padding-right: 150px;
+}
+table {
+    width: auto;
+}
+.hidden {
+    display: none;
+    visibility: hidden;
+}
+
+div.startBtn {
+    width: 50%;
+    text-align: right;
+    padding: 4px;
+    padding-bottom: 4px;
+    font-size: 14px !important;
+
+}
+#numQuiz{  
+    
+    width: 15%;
+    text-align: left;
+    padding: 4px;
+    padding-bottom: 4px;
+    font-size: 12px !important;
+}
+
+
+#TimeSpan {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+#next {
+    float: right;
+}
